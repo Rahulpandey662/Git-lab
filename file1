@@ -1,0 +1,4 @@
+name = str(input("what is your Name ?"))
+
+print(name,"Welome to Git lab")
+
