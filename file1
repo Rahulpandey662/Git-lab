@@ -1,8 +1,1 @@
-name = str(input("what is your Name ?"))
-
-print(name,"Welome to Git lab")
-
-age = int(input("Enter your age "))
-print(age)
-Now we are finishing this.
-Confirm with ok to finish
+Bye Bye
